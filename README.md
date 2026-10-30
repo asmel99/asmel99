@@ -1,4 +1,4 @@
-### Hi there, I'm Asmaa El Meziane 👋
+### Hi there, I'm Asmaa EL Meziane 👋
 
 I am a PhD Researcher specializing in **Cheminformatics**, **Bioinformatics**, and **Generative AI** for industrial molecular discovery. I also work on custom data engineering and compilation pipelines.
 
@@ -15,7 +15,7 @@ I am a PhD Researcher specializing in **Cheminformatics**, **Bioinformatics**, a
 ---
 
 ### 📊 Professional Focus
-* **PhD Thesis:** *Intégration de l’informatique et de l’intelligence Artificielle pour la Découverte de Nouvelles Molécules Bioactives à Visée Industrielle* (Université Cadi Ayyad / FSSM).
+* **PhD Thesis:** *Intégration de l’informatique et de l’intelligence Artificielle pour la Découverte de Nouvelles Molécules Bioactives à Visée Industrielle* (Université Cadi Ayyad / FST).
 * **Freelance Data Work:** Building automated data ingestion scripts, parsing chemical datasets, and cleaning raw tabular structures.
 
 📫 *Feel free to reach out or check out my pinned repositories below to see my latest open-source pipelines and research code!*
