@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Asmaa El Meziane 👋
 
-<!--
-**asmel99/asmel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD Researcher specializing in **Cheminformatics**, **Bioinformatics**, and **Generative AI** for industrial molecular discovery. I also work on custom data engineering and compilation pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research & Expertise
+* **Focus:** AI-driven *de novo* molecular design, generative models (GANs, Transformers), and bioactivity optimization for industrial applications.
+* **Core Stack:** 
+  * **Languages:** Python, SQL
+  * **Cheminformatics:** RDKit, SMILES/SELFIES processing, molecular fingerprinting
+  * **Deep Learning:** PyTorch, Pandas, NumPy, scikit-learn
+  * **Tooling:** Git, Jupyter, Linux environments
+
+---
+
+### 📊 Professional Focus
+* **PhD Thesis:** *Intégration de l’informatique et de l’intelligence Artificielle pour la Découverte de Nouvelles Molécules Bioactives à Visée Industrielle* (Université Cadi Ayyad / FSSM).
+* **Freelance Data Work:** Building automated data ingestion scripts, parsing chemical datasets, and cleaning raw tabular structures.
+
+📫 *Feel free to reach out or check out my pinned repositories below to see my latest open-source pipelines and research code!*
